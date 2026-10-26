@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+*.pth
+logfile.txt
