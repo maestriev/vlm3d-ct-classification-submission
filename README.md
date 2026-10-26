@@ -1,11 +1,11 @@
 # CT Abnormality Classification — ResNet + ViViT Fusion (VLM3D Challenge)
 
--Multi-label classification of 18 chest CT abnormalities, trained on CT-RATE.
+- Multi-label classification of 18 chest CT abnormalities, trained on CT-RATE.
 A 2D ResNet-18 (applied slice by slice) and a 3D ViViT are fused with learned
 attention weights. Per-class probabilities are then calibrated so that a 0.5
 threshold works for every class.
 
--Challenge: Submission to the [VLM3D Challenge](https://research.forithmus.com/collections/vlm3d-challenge)
+- Challenge: Submission to the [VLM3D Challenge](https://research.forithmus.com/collections/vlm3d-challenge)
 (3D Chest CT abnormality classification task).
 
 - Project report: [CS231N Final Project Report (Stanford, 2025)](https://cs231n.stanford.edu/2025/papers/text_file_840274985-CS231N_Final_Project_Report_EvanMaestri.pdf)
