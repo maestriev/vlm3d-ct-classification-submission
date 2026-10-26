@@ -1,5 +1,8 @@
 # CT Abnormality Classification — ResNet + ViViT Fusion (VLM3D Challenge)
 
+Evan Maestri (maestri@stanford.edu), Affiliation: Stanford Immunology Program, School of Medicine, Stanford University
+
+
 - Multi-label classification of 18 chest CT abnormalities, trained on CT-RATE.
 A 2D ResNet-18 (applied slice by slice) and a 3D ViViT are fused with learned
 attention weights. Per-class probabilities are then calibrated so that a 0.5
