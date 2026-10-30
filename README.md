@@ -63,3 +63,8 @@ The training and calibration scripts import `model_architecture_helper_functions
 Data loading was adapted from
 [CT-CLIP](https://github.com/ibrahimethemhamamci/CT-CLIP) and
 [CT2Rep](https://github.com/ibrahimethemhamamci/CT2Rep), using the CT-RATE dataset.
+
+## Result
+
+Submission corresponds to top-5 model from 2025, group name: Evan Maestri
+CRG Score 0.5340, AUROC (Macro) 0.8327, F1 Macro (0.5926), Accuracy (0.7948)
